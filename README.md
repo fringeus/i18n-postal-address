@@ -18,7 +18,7 @@ npm install i18n-postal-address
 yarn add i18n-postal-address
 ```
 
-## Usage
+## Usage- DUH
 
 ### As an ESM module (web)
 
